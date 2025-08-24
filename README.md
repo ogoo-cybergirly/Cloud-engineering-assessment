@@ -69,6 +69,6 @@ This user has access is limited to the above three buckets, no delete permission
 AWS Console Login
 
 Console URL / Account Alias: https://419173572656.signin.aws.amazon.com/console
-Username: cloudlaunch-uploader
-Password: Qwedrf56%&*
+Username: 'cloudlaunch-uploader'
+Password: attached to the Google Drive document
 
