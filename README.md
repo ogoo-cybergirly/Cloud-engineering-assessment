@@ -61,3 +61,14 @@ cloudlaunch-db-rt → Associated with db subnet, no internet access.
 Security Groups:
 cloudlaunch-app-sg → HTTP (80) allowed inside VPC.
 cloudlaunch-db-sg → MySQL (3306) allowed from app subnet only.
+
+IAM User Access
+IAM User: cloudlaunch-uploader
+This user has access is limited to the above three buckets, no delete permissions, and read-only access to VPC and networking components.
+
+AWS Console Login
+
+Console URL / Account Alias: https://419173572656.signin.aws.amazon.com/console
+Username: cloudlaunch-uploader
+Password: Qwedrf56%&*
+
